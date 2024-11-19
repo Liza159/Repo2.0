@@ -1,5 +1,7 @@
 git clone https://github.com/Liza159/Repo2.0.git
 cd Repo2.0
 git add script1.sh
-git commit -m "Додано скрипт для завдання 1"
+git commit -m "jobe
+/var/www/html/index.html
+/var/www/html/jobe"
 git push
